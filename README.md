@@ -15,10 +15,10 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Github Profile
-*Creating my own Github Profile without any experience, Claude, Github, ChatGPT, Canva and by following a tutorial derived.*
+*Creating my own Github Profile without any experience, Claude, Github, ChatGPT, Canva and by following a tutorial.*
 
 ### Github Portfolio 
-*Creating my own Github Potfolio without any experience, Claude, Github, ChatGPT, Canva and by following a tutorial derived.*
+*Creating my own Github Potfolio without any experience, Claude, Github, ChatGPT, Canva and by following a tutorial.*
 
 ### Coming Soon - My business Page 
 *I will be creating a Website for my own little business derived.*
