@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Joriz Pauline Nebrija - SEO | Data Entry | Travel VA | Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -14,24 +14,23 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Github Profile
+*Creating my own Github Profile without any experience, Claude, Github, ChatGPT, Canva and by following a tutorial derived.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Github Portfolio 
+*Creating my own Github Potfolio without any experience, Claude, Github, ChatGPT, Canva and by following a tutorial derived.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Coming Soon - My business Page 
+*I will be creating a Website for my own little business derived.*
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Tableau
+- **Data Analysis**: Excel, Powerpoint, etc.
+- **Tools**: ChatGPT, Claude, Canva etc.
 
 ## 💡 How to Use This Template
 
